@@ -1,0 +1,11 @@
+.map {
+  background-color: $backgroundColor;
+  padding: 16px 0;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.leaflet-container {
+  width: 80%;
+}

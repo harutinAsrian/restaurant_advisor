@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Tapastan",
+      "raiting": 5,
+      "coordinates": {
+        "latitude": 40.18718015425371,
+        "longitude": 44.50877518452785
+      },
+      "feedback": [],
+      "imgUrl": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170"
+    },
+    {
+      "id": 2,
+      "name": "Smoking Chef",
+      "raiting": 4,
+      "coordinates": {
+        "latitude": 40.18606542184613,
+        "longitude": 44.50786323346565
+      },
+      "feedback": [],
+      "imgUrl": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170"
+    },
+    {
+      "id": 3,
+      "name": "Yasmine restaurant",
+      "raiting": 3,
+      "coordinates": {
+        "latitude": 40.18597894895958,
+        "longitude": 44.51127485098583
+      },
+      "feedback": [],
+      "imgUrl": "https://images.unsplash.com/photo-1515669097368-22e68427d265?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170"
+    },
+    {
+      "id": 4,
+      "name": "Florence Restaurant",
+      "raiting": 4,
+      "coordinates": {
+        "latitude": 40.19482896928053,
+        "longitude": 44.48151764346117
+      },
+      "feedback": [],
+      "imgUrl": "https://images.unsplash.com/photo-1525648199074-cee30ba79a4a?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170"
+    },
+    {
+      "id": 5,
+      "name": "Sherep Restaurant",
+      "raiting": 5,
+      "coordinates": {
+        "latitude": 40.178765789279524,
+        "longitude": 44.51095298593019
+      },
+      "feedback": [],
+      "imgUrl": "https://images.unsplash.com/photo-1592861956120-e524fc739696?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170"
+    },
+    {
+      "id": 6,
+      "name": "Lavash Restaurant",
+      "raiting": 5,
+      "coordinates": {
+        "latitude": 40.18322382531451,
+        "longitude": 44.51630345731484
+      },
+      "feedback": [],
+      "imgUrl": "https://images.unsplash.com/photo-1471253794676-0f039a6aae9d?ixlib=rb-1.2.1&raw_url=true&q=80&fm=jpg&crop=entropy&cs=tinysrgb&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170"
+    },
+    {
+      "id": 7,
+      "name": "Black Angus",
+      "raiting": 5,
+      "coordinates": {
+        "latitude": 40.1886241066728,
+        "longitude": 44.51637738615003
+      },
+      "feedback": [],
+      "imgUrl": "https://images.unsplash.com/photo-1553527922-767df645c5f6?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170"
+    }
+  ]
+}
